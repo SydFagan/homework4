@@ -1,0 +1,20 @@
+.wrapper {
+    font-family: GillSans;
+    font-weight: bold;
+    font-size: 19px;
+max-width: 980px;
+min-height: 200px;
+margin: 0 auto;
+
+}
+
+
+.row {
+display: flex;
+margin-top: -150px;
+}
+
+.col {
+flex: 1;
+padding: 10px;
+}

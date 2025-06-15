@@ -1,0 +1,34 @@
+.hero-gallery {
+    max-width: 1000px;
+    height: 378px;
+    margin: 0 auto;
+    background-image:linear-gradient( rgba(255,209,64,.5),rgba(255,209,64,.5)), url(../images/1.png);
+    margin-top: 180px;
+    padding-top: 50px;
+    position:relative;
+    margin-bottom: 190px;
+    font-family: GillSans;
+    margin-bottom: 190px;
+    background-size: 100%;
+
+
+ .hero-title {
+    position: absolute;
+    bottom: 0;
+    left: 30px;
+    color: #FFD140;
+}
+
+.title-I {
+    font-size: 300px;
+    line-height: 0;
+    margin-right: 30px;
+}
+    .title-food {
+        font-size: 140px;
+         line-height: 0;
+    }
+
+
+}
+

@@ -1,0 +1,51 @@
+.history{
+max-width: 1000px;
+min-height: 378px;
+margin: -25px auto 0 auto;
+font-family: GillSans;
+  
+
+
+
+
+
+
+.hist-title {
+text-transform: uppercase;
+font-weight: bold;
+border-bottom: solid 2px black;
+padding-right:30px;
+padding-bottom: 20px;
+font-size: 25px;
+ color: black;
+position: relative;
+
+
+
+
+
+
+    }
+
+.text {
+    margin-top: 50px;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+   
+}
+
+
+}
+@media only all and (max-width: 1000px) {
+ 
+    .nav {
+        padding: 0 30px;
+
+.links {
+    display: none;
+}
+
+    }
+  
+}
